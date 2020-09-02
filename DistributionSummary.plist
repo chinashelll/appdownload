@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ctzlapp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AEFEC6457A3D31C6E42CB68168F63B48E6749448</string>
+				<key>dateExpires</key>
+				<string>2021/9/2</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>WH4WA8B4JJ.org.reactjs.native.example.ctzlapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>WH4WA8B4JJ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>WH4WA8B4JJ.org.reactjs.native.example.ctzlapp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ctzlapp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>77dd6908-6bdc-4a4c-82bb-c2b95e640833</string>
+				<key>name</key>
+				<string>ctzlapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>WH4WA8B4JJ</string>
+				<key>name</key>
+				<string>Qingdao Urban &amp; Rural Development Financial Leasing Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
